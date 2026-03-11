@@ -59,13 +59,13 @@ const HomePage = () => {
                 From Molten Metal to <span className="text-accent">Finished Casting</span>
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                At Klein Kastings, we provide high-quality aluminum castings in the Grand Rapids, Michigan area for customers who need dependable parts, responsive service, and consistent results. We work with manufacturers, engineers, and purchasing teams looking for cast aluminum components for industrial, commercial, and custom applications.
+                Klein Kastings produces high-quality aluminum castings for manufacturers who need dependable parts, responsive service, and consistent results.
               </p>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                From prototype work to production runs, our team is focused on delivering castings that meet your requirements for quality, appearance, and performance. If you need a trusted aluminum foundry serving the Grand Rapids, MI area, we're ready to help.
+                From prototype development to production runs, we deliver aluminum components designed for performance, appearance, and durability.
               </p>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                Located close to Grand Rapids, Michigan, Klein Kastings provides aluminum casting, machining, polishing, buffing, and finishing services for manufacturers across West Michigan and the Midwest. Our facility specializes in precision aluminum components produced for industrial equipment, transportation, furniture, and custom applications.
+                Our capabilities include aluminum casting, CNC machining, polishing, buffing, and finishing — allowing customers to receive parts ready for coating, assembly, or final installation.
               </p>
               <div className="grid grid-cols-2 gap-6">
                 <div className="flex items-center space-x-3">
