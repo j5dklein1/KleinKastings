@@ -7,6 +7,8 @@ const HomePage = lazy(() => import('@/pages/Home/index'));
 const AboutPage = lazy(() => import('@/pages/About/index'));
 const CapabilitiesPage = lazy(() => import('@/pages/Capabilities/index'));
 const ContactPage = lazy(() => import('@/pages/Contact/index'));
+const CustomCastingPage = lazy(() => import('@/pages/CustomCasting/index'));
+const AluminumCastingMichiganPage = lazy(() => import('@/pages/AluminumCastingMichigan/index'));
 const NotFoundPage = lazy(() => import('@/pages/NotFound/index'));
 
 // Loading component
@@ -41,6 +43,14 @@ export const router = createBrowserRouter([
       {
         path: '/contact',
         element: <Lazy><ContactPage /></Lazy>,
+      },
+      {
+        path: '/custom-aluminum-castings',
+        element: <Lazy><CustomCastingPage /></Lazy>,
+      },
+      {
+        path: '/aluminum-casting-michigan',
+        element: <Lazy><AluminumCastingMichiganPage /></Lazy>,
       },
     ],
   },
