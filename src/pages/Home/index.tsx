@@ -28,7 +28,7 @@ const HomePage = () => {
             <span className="text-accent">Foundry Solutions</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-200 mb-10 max-w-2xl mx-auto font-light">
-            From 3D design to finished casting — we bring your industrial vision to life.
+            Michigan-based aluminum casting and finishing services - from 3D design to fully machined and polished components.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link
