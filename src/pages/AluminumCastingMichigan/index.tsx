@@ -19,12 +19,12 @@ export default function AluminumCastingMichiganPage() {
 
   return (
     <main className="bg-white text-slate-900">
-      <section className="px-6 py-16 md:px-10 lg:px-16 xl:px-24">
+      <section className="px-6 pt-40 pb-16 md:px-10 md:pt-44 lg:px-16 xl:px-24">
         <div className="mx-auto max-w-6xl">
           <p className="mb-3 text-xs font-semibold uppercase tracking-[0.35em] text-slate-500">
             West Michigan Manufacturing
           </p>
-          <h1 className="max-w-4xl text-4xl font-black uppercase tracking-tight text-slate-900 md:text-6xl">
+          <h1 className="max-w-4xl text-4xl font-black uppercase tracking-[0.05em] text-slate-900 md:text-6xl">
             Aluminum Casting in Michigan
           </h1>
           <p className="mt-6 max-w-4xl text-lg leading-8 text-slate-700">
@@ -59,14 +59,14 @@ export default function AluminumCastingMichiganPage() {
       <section className="border-y border-slate-200 bg-slate-50 px-6 py-14 md:px-10 lg:px-16 xl:px-24">
         <div className="mx-auto grid max-w-6xl gap-10 md:grid-cols-3">
           <div className="border border-slate-200 bg-white p-6">
-            <h2 className="text-xl font-black uppercase tracking-tight">Michigan Service Area</h2>
+            <h2 className="text-xl font-black uppercase tracking-[0.05em]">Michigan Service Area</h2>
             <p className="mt-4 text-base leading-8 text-slate-700">
               We support customers in Grand Rapids, West Michigan, and surrounding manufacturing
               regions that need aluminum castings produced with quality and consistency.
             </p>
           </div>
           <div className="border border-slate-200 bg-white p-6">
-            <h2 className="text-xl font-black uppercase tracking-tight">Manufacturing Support</h2>
+            <h2 className="text-xl font-black uppercase tracking-[0.05em]">Manufacturing Support</h2>
             <p className="mt-4 text-base leading-8 text-slate-700">
               Our castings are produced for industrial equipment, transportation components,
               furniture hardware, custom machinery, and specialty applications that need
@@ -74,7 +74,7 @@ export default function AluminumCastingMichiganPage() {
             </p>
           </div>
           <div className="border border-slate-200 bg-white p-6">
-            <h2 className="text-xl font-black uppercase tracking-tight">Complete Process</h2>
+            <h2 className="text-xl font-black uppercase tracking-[0.05em]">Complete Process</h2>
             <p className="mt-4 text-base leading-8 text-slate-700">
               In addition to aluminum casting, we provide machining, polishing, buffing, and
               finishing services so customers can receive more complete parts from one supplier.
@@ -85,7 +85,7 @@ export default function AluminumCastingMichiganPage() {
 
       <section className="px-6 py-16 md:px-10 lg:px-16 xl:px-24">
         <div className="mx-auto max-w-6xl">
-          <h2 className="text-2xl font-black uppercase tracking-tight">Why Buyers Search for Aluminum Casting Michigan</h2>
+          <h2 className="text-2xl font-black uppercase tracking-[0.05em]">Why Buyers Search for Aluminum Casting Michigan</h2>
           <p className="mt-4 text-base leading-8 text-slate-700">
             Buyers searching for aluminum casting in Michigan are usually looking for a foundry
             partner that can support more than raw castings. They need communication, realistic
