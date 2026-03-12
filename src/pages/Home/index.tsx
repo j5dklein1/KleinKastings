@@ -67,6 +67,21 @@ const HomePage = () => {
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
                 Our capabilities include aluminum casting, CNC machining, polishing, buffing, and finishing — allowing customers to receive parts ready for coating, assembly, or final installation.
               </p>
+  <div className="mt-10 flex flex-wrap gap-4">
+      <Link
+        to="/custom-aluminum-castings"
+        className="inline-flex items-center justify-center rounded-none bg-slate-900 px-6 py-4 text-sm font-bold uppercase tracking-[0.18em] text-white transition hover:bg-slate-800"
+      >
+        Custom Aluminum Castings
+      </Link>
+
+      <Link
+        to="/aluminum-casting-michigan"
+        className="inline-flex items-center justify-center rounded-none border border-slate-900 px-6 py-4 text-sm font-bold uppercase tracking-[0.18em] text-slate-900 transition hover:bg-slate-100"
+      >
+        Aluminum Casting Michigan
+      </Link>
+    </div>
               <div className="grid grid-cols-2 gap-6">
                 <div className="flex items-center space-x-3">
                   <Box className="text-accent" size={32} />
