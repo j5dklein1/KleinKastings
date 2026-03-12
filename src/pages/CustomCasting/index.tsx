@@ -55,7 +55,7 @@ export default function CustomCastingPage() {
       <section className="border-y border-slate-200 bg-slate-50 px-6 py-14 md:px-10 lg:px-16 xl:px-24">
         <div className="mx-auto grid max-w-6xl gap-10 md:grid-cols-2">
           <div>
-            <h2 className="text-2xl font-black uppercase tracking-tight">Casting Capabilities</h2>
+            <h2 className="text-2xl font-black uppercase tracking-[0.05em]">Casting Capabilities</h2>
             <p className="mt-4 text-base leading-8 text-slate-700">
               Our aluminum casting capabilities support both short-run prototype work and
               ongoing production. We focus on castings that machine cleanly, finish well,
@@ -70,7 +70,7 @@ export default function CustomCastingPage() {
           </div>
 
           <div>
-            <h2 className="text-2xl font-black uppercase tracking-tight">Finishing Advantage</h2>
+            <h2 className="text-2xl font-black uppercase tracking-[0.05em]">Finishing Advantage</h2>
             <p className="mt-4 text-base leading-8 text-slate-700">
               Klein Kastings offers more than casting alone. We also provide machining,
               polishing, buffing, and finishing services, which gives customers a cleaner,
@@ -89,7 +89,7 @@ export default function CustomCastingPage() {
       <section className="px-6 py-16 md:px-10 lg:px-16 xl:px-24">
         <div className="mx-auto grid max-w-6xl gap-12 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
-            <h2 className="text-2xl font-black uppercase tracking-tight">Materials and Applications</h2>
+            <h2 className="text-2xl font-black uppercase tracking-[0.05em]">Materials and Applications</h2>
             <p className="mt-4 text-base leading-8 text-slate-700">
               We work with aluminum castings for a wide range of applications, including
               industrial equipment, transportation, furniture, architectural hardware,
@@ -106,7 +106,7 @@ export default function CustomCastingPage() {
           </div>
 
           <div className="border border-slate-200 bg-slate-50 p-8">
-            <h2 className="text-2xl font-black uppercase tracking-tight">Request a Quote</h2>
+            <h2 className="text-2xl font-black uppercase tracking-[0.05em]">Request a Quote</h2>
             <p className="mt-4 text-base leading-8 text-slate-700">
               Send us your drawing, model, sample, or part requirements and we’ll review
               your project for aluminum casting, machining, and finishing.
