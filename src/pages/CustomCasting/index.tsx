@@ -24,7 +24,7 @@ export default function CustomCastingPage() {
           <p className="mb-3 text-xs font-semibold uppercase tracking-[0.35em] text-slate-500">
             Aluminum Foundry Services
           </p>
-          <h1 className="max-w-4xl text-4xl font-black uppercase tracking-tight text-slate-900 md:text-6xl">
+          <h1 className="max-w-4xl text-4xl font-black uppercase tracking-[0.05em] text-slate-900 md:text-6xl">
             Custom Aluminum Casting Services
           </h1>
           <p className="mt-6 max-w-4xl text-lg leading-8 text-slate-700">
