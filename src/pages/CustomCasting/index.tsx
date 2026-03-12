@@ -19,7 +19,7 @@ export default function CustomCastingPage() {
 
   return (
     <main className="bg-white text-slate-900">
-      <section className="px-6 py-16 md:px-10 lg:px-16 xl:px-24">
+      <section className="px-6 pt-40 pb-16 md:px-10 md:pt-44 lg:px-16 xl:px-24">
         <div className="mx-auto max-w-6xl">
           <p className="mb-3 text-xs font-semibold uppercase tracking-[0.35em] text-slate-500">
             Aluminum Foundry Services
